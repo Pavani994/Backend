@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1793085791526",
+    "amount": 250,
+    "category": "Food",
+    "description": "Lunch"
+  },
+  {
+    "id": "1793085892981",
+    "amount": 500,
+    "category": "Shooping",
+    "description": "Shoes"
+  }
+]
